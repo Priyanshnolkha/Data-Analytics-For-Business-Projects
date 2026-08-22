@@ -289,7 +289,8 @@ Note: The exact report URL is not included in the project report provided for th
 
 GitHub Repository:
 https://github.com/Priyanshnolkha/Data-Analytics-For-Business-Projects/tree/main/Final_Project_Blinkit_Grocery_Dashboard
-
+Power BI Service:
+https://app.powerbi.com/links/EJEkL7BkBa?ctid=6bab7765-c387-4d0d-9be7-7f5679251594&pbi_source=linkShare
 📁 Suggested Project Structure
 
 Final_Project_Blinkit_Grocery_Dashboard/
